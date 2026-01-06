@@ -1,0 +1,16 @@
+# .NET
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# SQLite
+*.db
+
+# Docker
+docker-compose*
+
+# OS
+.DS_Store
+Thumbs.db
